@@ -51,6 +51,12 @@
 
 </details>
 
+### Merge Conflict Videos
+
+- [Minor css fixes](https://vimeo.com/225086721/5a00221234)
+- [Update README](https://vimeo.com/225086807/17d3c84475)
+- [Update manual](https://vimeo.com/225093022/6c1c6eb72b)
+
 ### What's Next?
 
 After you have completed this course, you are probably wondering where to go from here:
