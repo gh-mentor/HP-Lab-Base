@@ -1,6 +1,5 @@
-# GitHub for Developers
+# GitHub training for the HP developers
 
-- Class Date: March 18 - 19, 2025
 - Facilitator: @andrew-scoppa
 
 ## Class Resources
@@ -56,10 +55,4 @@
 - [Minor css fixes](https://vimeo.com/225086721/5a00221234)
 - [Update manual](https://vimeo.com/225093022/6c1c6eb72b)
 
-### What's Next?
 
-After you have completed this course, you are probably wondering where to go from here:
-
-- [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
-- [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
-- [Join the open source community](https://github.com/open-source)
