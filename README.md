@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for HP Developers
 
 - Class Date: March 18 - 19, 2025
 - Facilitator: @andrew-scoppa
